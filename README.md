@@ -5,8 +5,8 @@ Examen Final 28 avril
 Examen - 25% chaque  
 (Examen à livre fermésans documentation)  
 Projet de session - 50%  
-       TP1 -  5%  
-       TP2 – 10%  
-       TP3 - 10%  
-       TP4 – 15%  
-       Rapport d’évaluation – 10%
+&emsp;TP1 -  5%  
+&emsp;TP2 – 10%  
+&emsp;TP3 - 10%  
+&emsp;TP4 – 15%  
+&emsp;Rapport d’évaluation – 10%
