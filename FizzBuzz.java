@@ -1,6 +1,6 @@
-public class FizzBuz{
+public class FizzBuzz{
     public static void main(String[] args){
-        for(int i = 0; i<=200){
+        for(int i = 0; i<=200;i++){
             System.out.println(fizzBuzz(i));
         }
     }
@@ -16,4 +16,6 @@ public class FizzBuz{
         }else if(n%5 == 0){
             return BUZZ; 
         }
+        return String.valueOf(n);
     }
+}
