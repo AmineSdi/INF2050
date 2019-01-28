@@ -1,2 +1,6 @@
-/bin/
 *.class
+*.xml
+*.jar
+*.iml
+*.MF
+*.kotlin*
